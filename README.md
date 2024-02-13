@@ -11,4 +11,4 @@ Transformers - The Attention Is All You Need paper presented the Transformer mod
 BERT was trained by masking 15% of the tokens with the goal to guess them. An additional objective was to predict the next sentence. Let's look at examples of these tasks:
 
 # Sentiment Classification with BERT and Hugging Face
-There are a lot of helpers that make using BERT easy with the Transformers library. Depending on the task you might want to use [BertForSequenceClassification][https://huggingface.co/docs/transformers/model_doc/bert#bertforsequenceclassification]  , [BertForQuestionAnswering][https://huggingface.co/docs/transformers/model_doc/bert#bertforquestionanswering] or something else.
+There are a lot of helpers that make using BERT easy with the Transformers library. Depending on the task you might want to use https://huggingface.co/docs/transformers/model_doc/bert#bertforsequenceclassification  , ttps://huggingface.co/docs/transformers/model_doc/bert#bertforquestionanswering or something else.
